@@ -1,0 +1,7 @@
+{
+    "require": {
+        "silex/silex"            : "dev-master",
+        "mageekguy/atoum"        : "dev-master"
+    },
+    "minimum-stability": "dev"
+}

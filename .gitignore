@@ -10,3 +10,14 @@ web/bundles/*
 
 # Configuration files
 app/config/parameters.ini
+
+# IDE
+.idea
+
+
+
+cache/
+composer.lock
+composer.phar
+log/
+symfttpd.phar
